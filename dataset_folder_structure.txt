@@ -1,0 +1,19 @@
+Keep your dataset like this:
+
+plant_leaf_disease_detection_cvvp_project/
+│
+├── dataset/
+│   ├── Apple___Apple_scab/
+│   │   ├── image1.jpg
+│   │   └── image2.jpg
+│   ├── Apple___healthy/
+│   │   ├── image1.jpg
+│   │   └── image2.jpg
+│   ├── Tomato___Early_blight/
+│   ├── Tomato___healthy/
+│   └── ...
+│
+├── train_model.py
+├── predict_image.py
+├── app.py
+└── requirements.txt
