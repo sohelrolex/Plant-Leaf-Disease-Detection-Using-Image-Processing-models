@@ -1,5 +1,6 @@
 # Plant Leaf Disease Detection Using Image Processing
 
+##Dataset link :"https://www.kaggle.com/datasets/emmarex/plantdisease/data"
 ## Project Title
 Plant Leaf Disease Detection Using Image Processing and Machine Learning
 
